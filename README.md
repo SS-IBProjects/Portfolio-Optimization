@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c4WKSIM0lEfm8YRTgVGxnVFEc6NSd94O?usp=sharing)
 # Portfolio Optimization & Risk Analytics
 
 This repository demonstrates portfolio optimization using Python and Markowitz’s Modern Portfolio Theory (MPT).
