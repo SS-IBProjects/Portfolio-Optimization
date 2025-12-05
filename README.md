@@ -32,9 +32,7 @@ The Efficient Frontier visualization highlights the trade-off between return and
 - Include ESG-weighted portfolios.  
 - Integrate macroeconomic indicators like inflation or interest rate data.  
 - Develop a Streamlit dashboard for live portfolio tracking.
-
-## How to Run
-To install dependencies, run this in the first code cell of the notebook:
+- 
 --------------------------------
 1. Download stock data (yfinance)
 2. Compute returns & volatility
