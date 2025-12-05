@@ -12,7 +12,7 @@ To construct an optimal investment portfolio that maximizes return for a given l
 - Simulated 5,000 random portfolios and computed expected return, risk, and Sharpe ratio.
 - Identified the optimal portfolio on the Efficient Frontier.
 
-Portfolio Optimization Workflow
+## Portfolio Optimization Workflow
 --------------------------------
 1. Download stock data (yfinance)
 2. Compute returns & volatility
