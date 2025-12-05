@@ -28,7 +28,7 @@ To install dependencies, run this in the first code cell of the notebook:
 
 ```python
 !pip install yfinance numpy pandas matplotlib seaborn scipy
+```
 ## Author
 **Sanjana Stephen**  
 MBA (Finance) | CFA Level I Candidate (Aug 2026)
-
